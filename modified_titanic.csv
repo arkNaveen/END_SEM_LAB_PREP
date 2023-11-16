@@ -1,0 +1,184 @@
+,PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,PassengerTyppe
+1,2,1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,1,0,PC 17599,38.0,C85,C,Normal Citizen
+3,4,1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35.0,1,0,113803,35.0,C123,S,Normal Citizen
+6,7,0,1,"McCarthy, Mr. Timothy J",male,54.0,0,0,17463,54.0,E46,S,Normal Citizen
+10,11,1,3,"Sandstrom, Miss. Marguerite Rut",female,4.0,1,1,PP 9549,4.0,G6,S,Normal Citizen
+11,12,1,1,"Bonnell, Miss. Elizabeth",female,58.0,0,0,113783,58.0,C103,S,Normal Citizen
+21,22,1,2,"Beesley, Mr. Lawrence",male,34.0,0,0,248698,34.0,D56,S,Normal Citizen
+23,24,1,1,"Sloper, Mr. William Thompson",male,28.0,0,0,113788,28.0,A6,S,Normal Citizen
+27,28,0,1,"Fortune, Mr. Charles Alexander",male,19.0,3,2,19950,19.0,C23 C25 C27,S,Normal Citizen
+52,53,1,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49.0,1,0,PC 17572,49.0,D33,C,Normal Citizen
+54,55,0,1,"Ostby, Mr. Engelhart Cornelius",male,65.0,0,1,113509,65.0,B30,C,Senior Citizen
+62,63,0,1,"Harris, Mr. Henry Birkhardt",male,45.0,1,0,36973,45.0,C83,S,Normal Citizen
+66,67,1,2,"Nye, Mrs. (Elizabeth Ramell)",female,29.0,0,0,C.A. 29395,29.0,F33,S,Normal Citizen
+75,76,0,3,"Moen, Mr. Sigurd Hansen",male,25.0,0,0,348123,25.0,F G73,S,Normal Citizen
+88,89,1,1,"Fortune, Miss. Mabel Helen",female,23.0,3,2,19950,23.0,C23 C25 C27,S,Normal Citizen
+92,93,0,1,"Chaffee, Mr. Herbert Fuller",male,46.0,1,0,W.E.P. 5734,46.0,E31,S,Normal Citizen
+96,97,0,1,"Goldschmidt, Mr. George B",male,71.0,0,0,PC 17754,71.0,A5,C,Senior Citizen
+97,98,1,1,"Greenfield, Mr. William Bertram",male,23.0,0,1,PC 17759,23.0,D10 D12,C,Normal Citizen
+102,103,0,1,"White, Mr. Richard Frasar",male,21.0,0,1,35281,21.0,D26,S,Normal Citizen
+110,111,0,1,"Porter, Mr. Walter Chamberlain",male,47.0,0,0,110465,47.0,C110,S,Normal Citizen
+118,119,0,1,"Baxter, Mr. Quigg Edmond",male,24.0,0,1,PC 17558,24.0,B58 B60,C,Normal Citizen
+123,124,1,2,"Webber, Miss. Susan",female,32.5,0,0,27267,32.5,E101,S,Normal Citizen
+124,125,0,1,"White, Mr. Percival Wayland",male,54.0,0,1,35281,54.0,D26,S,Normal Citizen
+136,137,1,1,"Newsom, Miss. Helen Monypeny",female,19.0,0,2,11752,19.0,D47,S,Normal Citizen
+137,138,0,1,"Futrelle, Mr. Jacques Heath",male,37.0,1,0,113803,37.0,C123,S,Normal Citizen
+139,140,0,1,"Giglio, Mr. Victor",male,24.0,0,0,PC 17593,24.0,B86,C,Normal Citizen
+148,149,0,2,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36.5,0,2,230080,36.5,F2,S,Normal Citizen
+151,152,1,1,"Pears, Mrs. Thomas (Edith Wearne)",female,22.0,1,0,113776,22.0,C2,S,Normal Citizen
+170,171,0,1,"Van der hoef, Mr. Wyckoff",male,61.0,0,0,111240,61.0,B19,S,Senior Citizen
+174,175,0,1,"Smith, Mr. James Clinch",male,56.0,0,0,17764,56.0,A7,C,Normal Citizen
+177,178,0,1,"Isham, Miss. Ann Elizabeth",female,50.0,0,0,PC 17595,50.0,C49,C,Normal Citizen
+183,184,1,2,"Becker, Master. Richard F",male,1.0,2,1,230136,1.0,F4,S,Normal Citizen
+193,194,1,2,"Navratil, Master. Michel M",male,3.0,1,1,230080,3.0,F2,S,Normal Citizen
+194,195,1,1,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44.0,0,0,PC 17610,44.0,B4,C,Normal Citizen
+195,196,1,1,"Lurette, Miss. Elise",female,58.0,0,0,PC 17569,58.0,B80,C,Normal Citizen
+205,206,0,3,"Strom, Miss. Telma Matilda",female,2.0,0,1,347054,2.0,G6,S,Normal Citizen
+209,210,1,1,"Blank, Mr. Henry",male,40.0,0,0,112277,40.0,A31,C,Normal Citizen
+215,216,1,1,"Newell, Miss. Madeleine",female,31.0,1,0,35273,31.0,D36,C,Normal Citizen
+218,219,1,1,"Bazzani, Miss. Albina",female,32.0,0,0,11813,32.0,D15,C,Normal Citizen
+224,225,1,1,"Hoyt, Mr. Frederick Maxfield",male,38.0,1,0,19943,38.0,C93,S,Normal Citizen
+230,231,1,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35.0,1,0,36973,35.0,C83,S,Normal Citizen
+245,246,0,1,"Minahan, Dr. William Edward",male,44.0,2,0,19928,44.0,C78,Q,Normal Citizen
+248,249,1,1,"Beckwith, Mr. Richard Leonard",male,37.0,1,1,11751,37.0,D35,S,Normal Citizen
+251,252,0,3,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29.0,1,1,347054,29.0,G6,S,Normal Citizen
+252,253,0,1,"Stead, Mr. William Thomas",male,62.0,0,0,113514,62.0,C87,S,Senior Citizen
+257,258,1,1,"Cherry, Miss. Gladys",female,30.0,0,0,110152,30.0,B77,S,Normal Citizen
+262,263,0,1,"Taussig, Mr. Emil",male,52.0,1,1,110413,52.0,E67,S,Normal Citizen
+263,264,0,1,"Harrison, Mr. William",male,40.0,0,0,112059,40.0,B94,S,Normal Citizen
+268,269,1,1,"Graham, Mrs. William Thompson (Edith Junkins)",female,58.0,0,1,PC 17582,58.0,C125,S,Normal Citizen
+269,270,1,1,"Bissette, Miss. Amelia",female,35.0,0,0,PC 17760,35.0,C99,S,Normal Citizen
+273,274,0,1,"Natsch, Mr. Charles H",male,37.0,0,1,PC 17596,37.0,C118,C,Normal Citizen
+275,276,1,1,"Andrews, Miss. Kornelia Theodosia",female,63.0,1,0,13502,63.0,D7,S,Senior Citizen
+291,292,1,1,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19.0,1,0,11967,19.0,B49,C,Normal Citizen
+292,293,0,2,"Levy, Mr. Rene Jacques",male,36.0,0,0,SC/Paris 2163,36.0,D,C,Normal Citizen
+297,298,0,1,"Allison, Miss. Helen Loraine",female,2.0,1,2,113781,2.0,C22 C26,S,Normal Citizen
+299,300,1,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50.0,0,1,PC 17558,50.0,B58 B60,C,Normal Citizen
+305,306,1,1,"Allison, Master. Hudson Trevor",male,0.92,1,2,113781,0.92,C22 C26,S,Normal Citizen
+307,308,1,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17.0,1,0,PC 17758,17.0,C65,C,Normal Citizen
+309,310,1,1,"Francatelli, Miss. Laura Mabel",female,30.0,0,0,PC 17485,30.0,E36,C,Normal Citizen
+310,311,1,1,"Hays, Miss. Margaret Bechstein",female,24.0,0,0,11767,24.0,C54,C,Normal Citizen
+311,312,1,1,"Ryerson, Miss. Emily Borie",female,18.0,2,2,PC 17608,18.0,B57 B59 B63 B66,C,Normal Citizen
+318,319,1,1,"Wick, Miss. Mary Natalie",female,31.0,0,2,36928,31.0,C7,S,Normal Citizen
+319,320,1,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40.0,1,1,16966,40.0,E34,C,Normal Citizen
+325,326,1,1,"Young, Miss. Marie Grice",female,36.0,0,0,PC 17760,36.0,C32,C,Normal Citizen
+327,328,1,2,"Ball, Mrs. (Ada E Hall)",female,36.0,0,0,28551,36.0,D,S,Normal Citizen
+329,330,1,1,"Hippach, Miss. Jean Gertrude",female,16.0,0,1,111361,16.0,B18,C,Normal Citizen
+331,332,0,1,"Partner, Mr. Austen",male,45.5,0,0,113043,45.5,C124,S,Normal Citizen
+332,333,0,1,"Graham, Mr. George Edward",male,38.0,0,1,PC 17582,38.0,C91,S,Normal Citizen
+336,337,0,1,"Pears, Mr. Thomas Clinton",male,29.0,1,0,113776,29.0,C2,S,Normal Citizen
+337,338,1,1,"Burns, Miss. Elizabeth Margaret",female,41.0,0,0,16966,41.0,E40,C,Normal Citizen
+339,340,0,1,"Blackwell, Mr. Stephen Weart",male,45.0,0,0,113784,45.0,T,S,Normal Citizen
+340,341,1,2,"Navratil, Master. Edmond Roger",male,2.0,1,1,230080,2.0,F2,S,Normal Citizen
+341,342,1,1,"Fortune, Miss. Alice Elizabeth",female,24.0,3,2,19950,24.0,C23 C25 C27,S,Normal Citizen
+345,346,1,2,"Brown, Miss. Amelia ""Mildred""",female,24.0,0,0,248733,24.0,F33,S,Normal Citizen
+356,357,1,1,"Bowerman, Miss. Elsie Edith",female,22.0,0,1,113505,22.0,E33,S,Normal Citizen
+366,367,1,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60.0,1,0,110813,60.0,D37,C,Normal Citizen
+369,370,1,1,"Aubart, Mme. Leontine Pauline",female,24.0,0,0,PC 17477,24.0,B35,C,Normal Citizen
+370,371,1,1,"Harder, Mr. George Achilles",male,25.0,1,0,11765,25.0,E50,C,Normal Citizen
+377,378,0,1,"Widener, Mr. Harry Elkins",male,27.0,0,2,113503,27.0,C82,C,Normal Citizen
+390,391,1,1,"Carter, Mr. William Ernest",male,36.0,1,2,113760,36.0,B96 B98,S,Normal Citizen
+393,394,1,1,"Newell, Miss. Marjorie",female,23.0,1,0,35273,23.0,D36,C,Normal Citizen
+394,395,1,3,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24.0,0,2,PP 9549,24.0,G6,S,Normal Citizen
+412,413,1,1,"Minahan, Miss. Daisy E",female,33.0,1,0,19928,33.0,C78,Q,Normal Citizen
+429,430,1,3,"Pickard, Mr. Berk (Berk Trembisky)",male,32.0,0,0,SOTON/O.Q. 392078,32.0,E10,S,Normal Citizen
+430,431,1,1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28.0,0,0,110564,28.0,C52,S,Normal Citizen
+434,435,0,1,"Silvey, Mr. William Baird",male,50.0,1,0,13507,50.0,E44,S,Normal Citizen
+435,436,1,1,"Carter, Miss. Lucile Polk",female,14.0,1,2,113760,14.0,B96 B98,S,Normal Citizen
+438,439,0,1,"Fortune, Mr. Mark",male,64.0,1,4,19950,64.0,C23 C25 C27,S,Senior Citizen
+445,446,1,1,"Dodge, Master. Washington",male,4.0,0,2,33638,4.0,A34,S,Normal Citizen
+449,450,1,1,"Peuchen, Major. Arthur Godfrey",male,52.0,0,0,113786,52.0,C104,S,Normal Citizen
+452,453,0,1,"Foreman, Mr. Benjamin Laventall",male,30.0,0,0,113051,30.0,C111,C,Normal Citizen
+453,454,1,1,"Goldenberg, Mr. Samuel L",male,49.0,1,0,17453,49.0,C92,C,Normal Citizen
+456,457,0,1,"Millet, Mr. Francis Davis",male,65.0,0,0,13509,65.0,E38,S,Senior Citizen
+460,461,1,1,"Anderson, Mr. Harry",male,48.0,0,0,19952,48.0,E12,S,Normal Citizen
+462,463,0,1,"Gee, Mr. Arthur H",male,47.0,0,0,111320,47.0,E63,S,Normal Citizen
+473,474,1,2,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23.0,0,0,SC/AH Basle 541,23.0,D,C,Normal Citizen
+484,485,1,1,"Bishop, Mr. Dickinson H",male,25.0,1,0,11967,25.0,B49,C,Normal Citizen
+486,487,1,1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35.0,1,0,19943,35.0,C93,S,Normal Citizen
+487,488,0,1,"Kent, Mr. Edward Austin",male,58.0,0,0,11771,58.0,B37,C,Normal Citizen
+492,493,0,1,"Molson, Mr. Harry Markland",male,55.0,0,0,113787,55.0,C30,S,Normal Citizen
+496,497,1,1,"Eustis, Miss. Elizabeth Mussey",female,54.0,1,0,36947,54.0,D20,C,Normal Citizen
+498,499,0,1,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25.0,1,2,113781,25.0,C22 C26,S,Normal Citizen
+504,505,1,1,"Maioni, Miss. Roberta",female,16.0,0,0,110152,16.0,B79,S,Normal Citizen
+505,506,0,1,"Penasco y Castellana, Mr. Victor de Satode",male,18.0,1,0,PC 17758,18.0,C65,C,Normal Citizen
+512,513,1,1,"McGough, Mr. James Robert",male,36.0,0,0,PC 17473,36.0,E25,S,Normal Citizen
+515,516,0,1,"Walker, Mr. William Anderson",male,47.0,0,0,36967,47.0,D46,S,Normal Citizen
+516,517,1,2,"Lemore, Mrs. (Amelia Milley)",female,34.0,0,0,C.A. 34260,34.0,F33,S,Normal Citizen
+520,521,1,1,"Perreault, Miss. Anne",female,30.0,0,0,12749,30.0,B73,S,Normal Citizen
+523,524,1,1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44.0,0,1,111361,44.0,B18,C,Normal Citizen
+536,537,0,1,"Butt, Major. Archibald Willingham",male,45.0,0,0,113050,45.0,B38,S,Normal Citizen
+539,540,1,1,"Frolicher, Miss. Hedwig Margaritha",female,22.0,0,2,13568,22.0,B39,C,Normal Citizen
+540,541,1,1,"Crosby, Miss. Harriet R",female,36.0,0,2,WE/P 5735,36.0,B22,S,Normal Citizen
+544,545,0,1,"Douglas, Mr. Walter Donald",male,50.0,1,0,PC 17761,50.0,C86,C,Normal Citizen
+550,551,1,1,"Thayer, Mr. John Borland Jr",male,17.0,0,2,17421,17.0,C70,C,Normal Citizen
+556,557,1,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48.0,1,0,11755,48.0,A16,C,Normal Citizen
+558,559,1,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39.0,1,1,110413,39.0,E67,S,Normal Citizen
+571,572,1,1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53.0,2,0,11769,53.0,C101,S,Normal Citizen
+572,573,1,1,"Flynn, Mr. John Irwin (""Irving"")",male,36.0,0,0,PC 17474,36.0,E25,S,Normal Citizen
+577,578,1,1,"Silvey, Mrs. William Baird (Alice Munger)",female,39.0,1,0,13507,39.0,E44,S,Normal Citizen
+581,582,1,1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39.0,1,1,17421,39.0,C68,C,Normal Citizen
+583,584,0,1,"Ross, Mr. John Hugo",male,36.0,0,0,13049,36.0,A10,C,Normal Citizen
+585,586,1,1,"Taussig, Miss. Ruth",female,18.0,0,2,110413,18.0,E68,S,Normal Citizen
+587,588,1,1,"Frolicher-Stehli, Mr. Maxmillian",male,60.0,1,1,13567,60.0,B41,C,Normal Citizen
+591,592,1,1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52.0,1,0,36947,52.0,D20,C,Normal Citizen
+599,600,1,1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49.0,1,0,PC 17485,49.0,A20,C,Normal Citizen
+609,610,1,1,"Shutes, Miss. Elizabeth W",female,40.0,0,0,PC 17582,40.0,C125,S,Normal Citizen
+618,619,1,2,"Becker, Miss. Marion Louise",female,4.0,2,1,230136,4.0,F4,S,Normal Citizen
+621,622,1,1,"Kimball, Mr. Edwin Nelson Jr",male,42.0,1,0,11753,42.0,D19,S,Normal Citizen
+625,626,0,1,"Sutton, Mr. Frederick",male,61.0,0,0,36963,61.0,D50,S,Senior Citizen
+627,628,1,1,"Longley, Miss. Gretchen Fiske",female,21.0,0,0,13502,21.0,D9,S,Normal Citizen
+630,631,1,1,"Barkworth, Mr. Algernon Henry Wilson",male,80.0,0,0,27042,80.0,A23,S,Senior Citizen
+632,633,1,1,"Stahelin-Maeglin, Dr. Max",male,32.0,0,0,13214,32.0,B50,C,Normal Citizen
+641,642,1,1,"Sagesser, Mlle. Emma",female,24.0,0,0,PC 17477,24.0,B35,C,Normal Citizen
+645,646,1,1,"Harper, Mr. Henry Sleeper",male,48.0,1,0,PC 17572,48.0,D33,C,Normal Citizen
+647,648,1,1,"Simonius-Blumer, Col. Oberst Alfons",male,56.0,0,0,13213,56.0,A26,C,Normal Citizen
+659,660,0,1,"Newell, Mr. Arthur Webster",male,58.0,0,2,35273,58.0,D48,C,Normal Citizen
+662,663,0,1,"Colley, Mr. Edward Pomeroy",male,47.0,0,0,5727,47.0,E58,S,Normal Citizen
+671,672,0,1,"Davidson, Mr. Thornton",male,31.0,1,0,F.C. 12750,31.0,B71,S,Normal Citizen
+679,680,1,1,"Cardeza, Mr. Thomas Drake Martinez",male,36.0,0,1,PC 17755,36.0,B51 B53 B55,C,Normal Citizen
+681,682,1,1,"Hassab, Mr. Hammad",male,27.0,0,0,PC 17572,27.0,D49,C,Normal Citizen
+689,690,1,1,"Madill, Miss. Georgette Alexandra",female,15.0,0,1,24160,15.0,B5,S,Normal Citizen
+690,691,1,1,"Dick, Mr. Albert Adrian",male,31.0,1,0,17474,31.0,B20,S,Normal Citizen
+698,699,0,1,"Thayer, Mr. John Borland",male,49.0,1,1,17421,49.0,C68,C,Normal Citizen
+699,700,0,3,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42.0,0,0,348121,42.0,F G63,S,Normal Citizen
+700,701,1,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18.0,1,0,PC 17757,18.0,C62 C64,C,Normal Citizen
+701,702,1,1,"Silverthorne, Mr. Spencer Victor",male,35.0,0,0,PC 17475,35.0,E24,S,Normal Citizen
+707,708,1,1,"Calderhead, Mr. Edward Pennington",male,42.0,0,0,PC 17476,42.0,E24,S,Normal Citizen
+710,711,1,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24.0,0,0,PC 17482,24.0,C90,C,Normal Citizen
+712,713,1,1,"Taylor, Mr. Elmer Zebley",male,48.0,1,0,19996,48.0,C126,S,Normal Citizen
+715,716,0,3,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19.0,0,0,348124,19.0,F G73,S,Normal Citizen
+716,717,1,1,"Endres, Miss. Caroline Louise",female,38.0,0,0,PC 17757,38.0,C45,C,Normal Citizen
+717,718,1,2,"Troutt, Miss. Edwina Celia ""Winnie""",female,27.0,0,0,34218,27.0,E101,S,Normal Citizen
+724,725,1,1,"Chambers, Mr. Norman Campbell",male,27.0,1,0,113806,27.0,E8,S,Normal Citizen
+730,731,1,1,"Allen, Miss. Elisabeth Walton",female,29.0,0,0,24160,29.0,B5,S,Normal Citizen
+737,738,1,1,"Lesurer, Mr. Gustave J",male,35.0,0,0,PC 17755,35.0,B101,C,Normal Citizen
+741,742,0,1,"Cavendish, Mr. Tyrell William",male,36.0,1,0,19877,36.0,C46,S,Normal Citizen
+742,743,1,1,"Ryerson, Miss. Susan Parker ""Suzette""",female,21.0,2,2,PC 17608,21.0,B57 B59 B63 B66,C,Normal Citizen
+745,746,0,1,"Crosby, Capt. Edward Gifford",male,70.0,1,1,WE/P 5735,70.0,B22,S,Senior Citizen
+748,749,0,1,"Marvin, Mr. Daniel Warner",male,19.0,1,0,113773,19.0,D30,S,Normal Citizen
+751,752,1,3,"Moor, Master. Meier",male,6.0,0,1,392096,6.0,E121,S,Normal Citizen
+759,760,1,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33.0,0,0,110152,33.0,B77,S,Normal Citizen
+763,764,1,1,"Carter, Mrs. William Ernest (Lucile Polk)",female,36.0,1,2,113760,36.0,B96 B98,S,Normal Citizen
+765,766,1,1,"Hogeboom, Mrs. John C (Anna Andrews)",female,51.0,1,0,13502,51.0,D11,S,Normal Citizen
+772,773,0,2,"Mack, Mrs. (Mary)",female,57.0,0,0,S.O./P.P. 3,57.0,E77,S,Normal Citizen
+779,780,1,1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43.0,0,1,24160,43.0,B3,S,Normal Citizen
+781,782,1,1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17.0,1,0,17474,17.0,B20,S,Normal Citizen
+782,783,0,1,"Long, Mr. Milton Clyde",male,29.0,0,0,113501,29.0,D6,S,Normal Citizen
+789,790,0,1,"Guggenheim, Mr. Benjamin",male,46.0,0,0,PC 17593,46.0,B82 B84,C,Normal Citizen
+796,797,1,1,"Leader, Dr. Alice (Farnham)",female,49.0,0,0,17465,49.0,D17,S,Normal Citizen
+802,803,1,1,"Carter, Master. William Thornton II",male,11.0,1,2,113760,11.0,B96 B98,S,Normal Citizen
+806,807,0,1,"Andrews, Mr. Thomas Jr",male,39.0,0,0,112050,39.0,A36,S,Normal Citizen
+809,810,1,1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33.0,1,0,113806,33.0,E8,S,Normal Citizen
+820,821,1,1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52.0,1,1,12749,52.0,B69,S,Normal Citizen
+823,824,1,3,"Moor, Mrs. (Beila)",female,27.0,0,1,392096,27.0,E121,S,Normal Citizen
+835,836,1,1,"Compton, Miss. Sara Rebecca",female,39.0,1,1,PC 17756,39.0,E49,C,Normal Citizen
+853,854,1,1,"Lines, Miss. Mary Conover",female,16.0,0,1,PC 17592,16.0,D28,S,Normal Citizen
+857,858,1,1,"Daly, Mr. Peter Denis ",male,51.0,0,0,113055,51.0,E17,S,Normal Citizen
+862,863,1,1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48.0,0,0,17466,48.0,D17,S,Normal Citizen
+867,868,0,1,"Roebling, Mr. Washington Augustus II",male,31.0,0,0,PC 17590,31.0,A24,S,Normal Citizen
+871,872,1,1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47.0,1,1,11751,47.0,D35,S,Normal Citizen
+872,873,0,1,"Carlsson, Mr. Frans Olof",male,33.0,0,0,695,33.0,B51 B53 B55,S,Normal Citizen
+879,880,1,1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56.0,0,1,11767,56.0,C50,C,Normal Citizen
+887,888,1,1,"Graham, Miss. Margaret Edith",female,19.0,0,0,112053,19.0,B42,S,Normal Citizen
+889,890,1,1,"Behr, Mr. Karl Howell",male,26.0,0,0,111369,26.0,C148,C,Normal Citizen
